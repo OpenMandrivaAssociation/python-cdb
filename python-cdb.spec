@@ -8,7 +8,6 @@ URL:		http://pilcrow.madison.wi.us/
 Source0:	http://pilcrow.madison.wi.us/python-cdb/%{name}-%{version}.tar.bz2
 BuildRequires:	python-devel >= 2.0
 Requires:	python >= 2.0
-BuildRoot:	%{_tmppath}/%{name}-buildroot
 
 %description
 The python-cdb extension module is an adaptation of D. J.
