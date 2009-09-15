@@ -1,7 +1,7 @@
 Summary:	A python interface to constant database files (cdb)
 Name:		python-cdb
 Version:	0.32
-Release:	%mkrel 12
+Release:	%mkrel 13
 License:	GPL
 Group:		Development/Python
 URL:		http://pilcrow.madison.wi.us/
