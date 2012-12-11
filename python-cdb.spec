@@ -44,3 +44,45 @@ python setup.py install \
 
 
 
+
+
+%changelog
+* Thu Sep 17 2009 Bogdano Arendartchuk <bogdano@mandriva.com> 0.34-13mdv2010.0
++ Revision: 444176
+- new version 0.34
+
+* Tue Sep 15 2009 Thierry Vignaud <tv@mandriva.org> 0.32-13mdv2010.0
++ Revision: 442053
+- rebuild
+
+* Fri Aug 01 2008 Thierry Vignaud <tv@mandriva.org> 0.32-12mdv2009.0
++ Revision: 259520
+- rebuild
+
+* Thu Jul 24 2008 Thierry Vignaud <tv@mandriva.org> 0.32-11mdv2009.0
++ Revision: 247390
+- rebuild
+
+* Fri Dec 21 2007 Olivier Blin <oblin@mandriva.com> 0.32-9mdv2008.1
++ Revision: 136447
+- restore BuildRoot
+
+  + Thierry Vignaud <tv@mandriva.org>
+    - kill re-definition of %%buildroot on Pixel's request
+
+
+* Tue Dec 12 2006 Nicolas Lécureuil <neoclust@mandriva.org> 0.32-9mdv2007.0
++ Revision: 96021
+- Rebuild for new python
+- Rebuild for new python
+- import python-cdb-0.32-7mdk
+
+* Sun Jan 08 2006 Oden Eriksson <oeriksson@mandriva.com> 0.32-7mdk
+- rebuild
+
+* Sun Dec 05 2004 Michael Scherer <misc@mandrake.org> 0.32-6mdk
+- Rebuild for new python
+
+* Sat Oct 16 2004 Oden Eriksson <oeriksson@mandrakesoft.com> 0.32-5mdk
+- rpmbuildupdated
+
