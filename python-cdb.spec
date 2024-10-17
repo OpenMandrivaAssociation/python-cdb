@@ -4,7 +4,7 @@ Version:	0.34
 Release:	14
 License:	GPL
 Group:		Development/Python
-URL:		http://pilcrow.madison.wi.us/
+URL:		https://pilcrow.madison.wi.us/
 Source0:	http://pilcrow.madison.wi.us/python-cdb/%{name}-%{version}.tar.gz
 BuildRequires:	python-devel >= 2.0
 Requires:	python >= 2.0
